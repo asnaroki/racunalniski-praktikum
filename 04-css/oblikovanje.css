@@ -31,24 +31,23 @@ code {
     font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace;
     color: #009966;
 }
-h1 {
+h1{
     color: #330066;
 }
-h2 {
-    margin-top: 2em;
-    border-top: 1px solid #AAAAAA;
+h2{
+    padding-top: 2em;
+    border-top: 1px solid#AAAAAA; 
     padding-top: 0.5em;
 }
 #uvod {
     padding: 2em;
     background-color: rgba(51, 0, 102, 0.1);
 }
-.slika {
-    border: 40em solid red ;
+.slika{
     font-size: 0.9em;
     width: 40%;
-    text-align: left;  
-    float: left;
+    text-align: left;
+    float: right;
     margin-left: 2em;
 }
 .slika img {
@@ -56,9 +55,8 @@ h2 {
     height: auto;
     border-radius: 50%;
 }
-.slika p:last-child {
-    font-size: 0,8em;
-    margin-top: 0.5em;
-    background-color: #cc0000;
+.slika p:last-child{
+    font-size: 0.8em;
+    margin-top: 0,34em;
 }
 
