@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1731354896.93247 "c:/Users/starm/OneDrive/Documents/GitHub/racunalniski-praktikum/06--uvod-v-latex/urnik.tex" "urnik.pdf" "urnik" 1731354897.47835 2
+["pdflatex"] 1731440517.53003 "c:/Users/starm/OneDrive/Documents/GitHub/racunalniski-praktikum/06--uvod-v-latex/urnik.tex" "urnik.pdf" "urnik" 1731440518.53732 0
   "C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
   "C:/Program Files/MiKTeX/fonts/tfm/adobe/courier/pcrr8r.tfm" 1136765053 1292 bd42be2f344128bff6d35d98474adfe3 ""
   "C:/Program Files/MiKTeX/fonts/tfm/adobe/courier/pcrr8t.tfm" 1136765053 1384 4632f5e54900a7dadbb83f555bc61e56 ""
@@ -62,9 +62,9 @@
   "C:/Users/starm/AppData/Local/Programs/MiKTeX/tex/latex/psnfss/t1ptm.fd" 1585253778 817 61d7da1e9f9e74989b196d147e623736 ""
   "C:/Users/starm/AppData/Local/Programs/MiKTeX/tex/latex/psnfss/times.sty" 1585926771 888 8e0e5c8cca7b18e0400f97f5a2b90a99 ""
   "C:/Users/starm/AppData/Local/Programs/MiKTeX/tex/latex/psnfss/ts1ptm.fd" 1585253778 653 96f56dc5d1ef1fe1121f1cfeec70ee0c ""
-  "c:/Users/starm/OneDrive/Documents/GitHub/racunalniski-praktikum/06--uvod-v-latex/urnik.tex" 1731354701 29149 1f0e50213089bf326e0d315e759dab50 ""
-  "urnik.aux" 1731354897 1502 19a437d60e45df2b9879912e3d00e61a "pdflatex"
-  "urnik.tex" 1731354701 29149 1f0e50213089bf326e0d315e759dab50 ""
+  "c:/Users/starm/OneDrive/Documents/GitHub/racunalniski-praktikum/06--uvod-v-latex/urnik.tex" 1731440516 29190 3952f8b7b80a3515953d0f30a5517344 ""
+  "urnik.aux" 1731440518 1502 19a437d60e45df2b9879912e3d00e61a "pdflatex"
+  "urnik.tex" 1731440516 29190 3952f8b7b80a3515953d0f30a5517344 ""
   (generated)
   "urnik.aux"
   "urnik.log"
